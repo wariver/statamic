@@ -1,0 +1,33 @@
+title: Settings
+data:
+  site_name: 'Kurasa Blog'
+  social:
+    -
+      id: Kguz1z2C
+      name: Twitter
+      url: 'https://twitter.com/kurasaAfrica'
+      icon: site/social-icons/twitter.svg
+    -
+      id: HN6eBHVI
+      name: Github
+      url: 'https://github.com/statamic/starter-kit-cool-writings'
+    -
+      id: g91fdj4s
+      name: Email
+      url: 'mailto:community@kurasa.co'
+      icon: site/social-icons/email.svg
+    -
+      id: lfe3a27l
+      name: fb
+      url: 'https://www.facebook.com/kurasa.co'
+      icon: site/social-icons/facebook.svg
+    -
+      id: lfe3ae1a
+      name: Youtube
+      url: 'https://www.youtube.com/channel/UCna6KA9NNNTp5UHh-dRWA7A'
+      icon: site/social-icons/youtube.svg
+    -
+      id: lfe3alg5
+      name: Linkedin
+      url: 'https://www.linkedin.com/company/73983029/'
+      icon: site/social-icons/linkedin.svg
